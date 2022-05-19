@@ -24,4 +24,3 @@ class MenadzerPolaczen:
 
 if __name__ == "__main__":
     print(MenadzerPolaczen(input()).pobierz_najczesciej_dzwoniacego())
-
